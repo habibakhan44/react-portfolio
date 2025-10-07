@@ -56,7 +56,7 @@ const Hero = () => {
               className="text-3xl tracking-tight"
             >
               <ReactTyped
-                strings={["Front-end Developer", "Web Enthusiast"]}
+                strings={["Full-Stack Developer", "Web Enthusiast"]}
                 typeSpeed={50}
                 backSpeed={30}
                 loop
@@ -68,12 +68,12 @@ const Hero = () => {
               variants={childVariants}
               className="my-2 max-w-lg py-6 text-lg leading-relaxed tracking-tighter text-gray-300 "
             >
-              I am a passionate front-end developer with a knack for crafting beautiful and user-friendly web applications. With a focus on responsive design and accessibility, I aim to create engaging user experiences. Let's build something amazing together!      
+              I am a passionate Full Stack Developer with a knack for crafting beautiful and user-friendly web applications. With a focus on responsive design and accessibility, I aim to create engaging user experiences. Let's build something amazing together!      
             </motion.p>
 
             <motion.a 
               variants={childVariants}
-              href="/resume.pdf" 
+              href="/Habiba CV (1).pdf" 
               target="_blank" 
               rel="noopener noreferrer" 
               download 
